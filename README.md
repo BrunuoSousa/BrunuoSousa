@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I am passionate about technology, Artificial Intelligence, programming and problem solving.
+I am passionate about technology, games, artificial intelligence, programming and problem solving.
 
 Currently studying:
 
@@ -31,7 +31,7 @@ Currently studying:
 
 ## 🧠 Areas of Interest
 
-- Artificial Intelligence
+- A.I.
 - Machine Learning
 - Prompt Engineering
 - Python Development
@@ -43,6 +43,37 @@ Currently studying:
 
 ## 📫 Contact
 
-LinkedIn: (colocaremos depois)
+LinkedIn: (https://www.linkedin.com/in/bruno-sousa-a6932a183/)
 
-Email: (opcional)
+Email: (chronnob12@gmail.com)
+
+## 🛠️ Technologies & Tools
+
+- Python
+- Artificial Intelligence
+- Prompt Engineering
+- WordPress
+- HTML
+- CSS
+- Adobe Photoshop
+- Adobe Lightroom
+- Microsoft Office
+- Digital Marketing
+- Excel (basic)
+
+---
+
+## 🤖 Current Focus
+
+- Artificial Intelligence
+- Large Language Models (LLMs)
+- AI Training
+- Python Programming
+- Computer Engineering
+- Machine Learning Fundamentals
+
+---
+
+## 🎯 Career Goal
+
+Seeking remote opportunities in Artificial Intelligence and technology-related roles.
