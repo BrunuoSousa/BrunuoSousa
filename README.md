@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hey! I'm Bruno Sousa 👋
 
-<!--
-**BrunuoSousa/BrunuoSousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student
 
-Here are some ideas to get you started:
+🤖 Artificial Intelligence Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Python Student
+
+🌐 Web Developer
+
+🎨 Graphic Designer
+
+---
+
+## 🚀 About Me
+
+I am passionate about technology, Artificial Intelligence, programming and problem solving.
+
+Currently studying:
+
+- Computer Engineering
+- CS50 Harvard
+- Python
+- AI Tools & Prompt Engineering
+- Web Development
+- Music
+- Neuroscience
+- Mathematics and Electronics
+
+---
+
+## 🧠 Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning
+- Prompt Engineering
+- Python Development
+- Web Development
+- Data Analysis
+- Digital Marketing
+
+---
+
+## 📫 Contact
+
+LinkedIn: (colocaremos depois)
+
+Email: (opcional)
