@@ -77,3 +77,11 @@ Email: (chronnob12@gmail.com)
 ## 🎯 Career Goal
 
 Seeking remote opportunities in Artificial Intelligence and technology-related roles.
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunuoSousa&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunuoSousa&layout=compact&theme=tokyonight)
