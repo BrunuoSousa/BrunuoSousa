@@ -82,6 +82,6 @@ Seeking remote opportunities in Artificial Intelligence and technology-related r
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunuoSousa&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunuoSousa&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunuoSousa&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunuoSousa&layout=compact&theme=tokyonight&cache_seconds=1800"/>
